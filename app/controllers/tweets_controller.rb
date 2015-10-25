@@ -4,4 +4,7 @@
       @tweets = Tweet.all
     end
 
+    def new
+    end
+
   end
